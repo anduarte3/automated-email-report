@@ -24,6 +24,7 @@ PASSWORD=your_app_password
 ```
 
 3.Install dependencies: pip install -r requirements.txt
+
 4.Run the script: python automated-email-report.py
 
 ### Notes

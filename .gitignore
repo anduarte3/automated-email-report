@@ -1,0 +1,14 @@
+# Ignore env and credentials
+.env
+*.csv
+
+# Python stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+myenv/

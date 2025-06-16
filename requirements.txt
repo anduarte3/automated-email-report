@@ -1,0 +1,5 @@
+python-dotenv
+csv
+smtplib
+EmailMessage
+mimetypes
